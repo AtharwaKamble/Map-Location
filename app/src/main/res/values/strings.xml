@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="google_maps_API_key">AIzaSyBGA-LcoTMg_37_hl-GHoX6LhAxGeivva0</string>
+
+    <string name="app_name">Map Location</string>
+</resources>
